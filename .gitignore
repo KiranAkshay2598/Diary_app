@@ -1,0 +1,25 @@
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases
+db.sqlite3
+
+# Uploaded Media Files
+media/
+
+
+# Environments
+.venv/
+venv/
+ENV/
+denv/
+
+# IDE configurations
+.vscode/
+pyrefly.toml
+pyrightconfig.json
+
+# Logs
+*.log
