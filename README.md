@@ -1,6 +1,6 @@
 # Digital Diary API
 
-A clean Django REST Framework backend application designed for managing personal digital diary entries, daily to-do lists, and event schedules. Originally built as a practice learning project when preparing for backend interviews as a fresher in the 1st quarter of 2021, demonstrating core Django concepts, RESTful API design, and clean code standards.
+A clean Django REST Framework backend application designed for managing personal digital diary entries, daily to-do lists, and event schedules. Originally built as a practice learning project when preparing for backend interviews as a fresher in early 2021, demonstrating core Django concepts, RESTful API design, and clean code standards.
 
 ---
 
