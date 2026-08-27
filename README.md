@@ -4,7 +4,7 @@ A clean Django REST Framework backend application designed for managing personal
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * **User Authentication & Management**: Token-based user registration and authentication using Django REST Framework (`rest_framework.authtoken`).
 * **Diary Notes Management**: Create and view personal notes with support for timestamped dates and image attachments.
@@ -15,7 +15,7 @@ A clean Django REST Framework backend application designed for managing personal
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 * **Framework**: Django 3.1 & Django REST Framework 3.12
 * **Language**: Python 3.11
@@ -25,7 +25,7 @@ A clean Django REST Framework backend application designed for managing personal
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Digital_diary/
@@ -49,7 +49,7 @@ Digital_diary/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Python 3.11+
@@ -88,7 +88,7 @@ The API will be available at `http://127.0.0.1:8000/`.
 
 ---
 
-## 🔌 API Endpoints Summary
+## API Endpoints Summary
 
 | Method | Endpoint | Description | Auth Required |
 | :--- | :--- | :--- | :--- |
@@ -104,7 +104,7 @@ The API will be available at `http://127.0.0.1:8000/`.
 
 ---
 
-## 🧪 Postman Collection
+## Postman Collection
 
 A pre-configured Postman collection is included in the `postman/` directory:
 * File: `postman/Digital_Diary.postman_collection.json`
